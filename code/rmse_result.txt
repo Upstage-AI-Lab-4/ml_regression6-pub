@@ -1,0 +1,2 @@
+RMSE test: 5447.239595048805
+최적 파라미터: {'subsample': 0.7, 'n_estimators': 9000, 'min_child_weight': 8, 'max_depth': 9, 'learning_rate': 0.02, 'lambda': 3.25, 'gamma': 0.0, 'colsample_bytree': 0.8, 'alpha': 2.5}, Best RMSE: 5855.0843
